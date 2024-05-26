@@ -1,2 +1,2 @@
-# TypeScriptDataStructureLearning-
+# TypeScriptDataStructureLearning
 TypeScript DataStructure Learning 
